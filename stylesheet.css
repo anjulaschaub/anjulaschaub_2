@@ -1,0 +1,37 @@
+h1{
+  font-size: 5em;
+}
+
+.indexpage{
+  margin: 5% auto;
+  width: 90%;
+  height: 100%;
+
+}
+
+.mainmenu{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 30%;
+
+}
+
+.menuitem{
+  width: 33.3333333333333%;
+  height: 100%;
+}
+
+.indexpage,
+.mainmenu,
+.menuitem {
+  border: 1px #E6E6E6 dashed;
+}
+
+
+
+}
+
+img{
+  width: 100%;
+}
